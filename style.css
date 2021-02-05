@@ -1,0 +1,24 @@
+*{
+    margin: auto 50px;
+}
+h1{
+  text-align: center;
+  font-weight: 800;
+  font-size: 25px;
+}
+form{
+    text-align: center;
+    border: solid #07bae7;
+}
+form input{
+    padding: 5px;
+    margin: 5px;
+    border: solid #35ee10;
+}
+.submit_btn{
+    border:#000 ;
+    background: #000;
+    text-align: center;
+    font-weight: bold;
+    color: azure;
+}
